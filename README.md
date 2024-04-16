@@ -21,4 +21,5 @@ Author's homepage:
 liblib: https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image
 civitai: https://civitai.com/user/1637083533489
 
-Please follow the open source agreement, redistribution is allowed with attribution, and selling is prohibited.
+![Snipaste_2024-04-16_17-58-20](https://github.com/baicai99/Yoloworld-based-full-body-fix-for-ComfyUI-nodes/assets/101706274/397b96c5-2423-4055-8b18-547ff02cbf2c)
+![Snipaste_2024-04-16_17-58-14](https://github.com/baicai99/Yoloworld-based-full-body-fix-for-ComfyUI-nodes/assets/101706274/bdcc29d3-1955-452e-9e73-8e339f62dae8)
