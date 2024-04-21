@@ -12,7 +12,7 @@ My node uses Yoloworld to recognize objects, not just to repaint faces and hair.
 
 # Sample Images:
 
-<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/19f43509-b127-49be-8837-e9e8e00a6aac" width="800" alt="Image Description">
+<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/c9be451b-0a53-4187-8da2-1c0f12e3a894" width="800" alt="Image Description">
 
 <img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/3e9c774c-bc6f-4ed2-b70a-c02423bed245" width="400" alt="Image Description">
 
