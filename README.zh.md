@@ -11,18 +11,14 @@
 2. 如果识别出头发时识别出整个头部，请调整Yoloworld ESAM中的第一个参数。
 
 # 样张：
-<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/b1db433c-82b4-4708-8ae9-da51fcd06ada" width="450" alt="图片描述">
+
+<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/3e9c774c-bc6f-4ed2-b70a-c02423bed245" width="450" alt="图片描述">
 
 <img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/cf0814ee-863e-498a-b9ec-7d6a03f2eaad" width="450" alt="图片描述">
 
 <img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/8cbd0b6e-64a3-4bdf-a228-b502bfbcb16e" width="450" alt="图片描述">
 
 <img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/8183c713-5456-42ce-9d6b-c848a1328e30" width="450" alt="图片描述">
-
-![2](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/b1db433c-82b4-4708-8ae9-da51fcd06ada)
-![3](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/cf0814ee-863e-498a-b9ec-7d6a03f2eaad)
-![4](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/8cbd0b6e-64a3-4bdf-a228-b502bfbcb16e)
-![5](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/8183c713-5456-42ce-9d6b-c848a1328e30)
 
 # 更新日志
 
