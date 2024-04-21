@@ -1,4 +1,4 @@
-# Yoloworld-based-full-body-fix-for-ComfyUI-nodes
+# Yoloworld based full body fix for ComfyUI nodes
 
 [English](/README.md) | [中文](/README.zh.md)
 
