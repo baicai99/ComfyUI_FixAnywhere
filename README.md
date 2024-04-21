@@ -37,7 +37,7 @@ How to use high and low frequency: measured high CFG and high noise reduction ca
 - Changed the face parameter to make the face less like a fake face.
 
 Author's homepage:  
-liblib: https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image  
-civitai: https://civitai.com/user/1637083533489  
+[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)  
+[civitai](https://civitai.com/user/1637083533489)  
 
 Please follow the open source agreement, redistribution is allowed but please credit the author, and selling is prohibited.
