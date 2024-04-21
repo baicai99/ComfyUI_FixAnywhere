@@ -6,13 +6,15 @@
 
 我的这个节点使用Yoloworld来识别物体，而不仅仅是重绘脸部和头发，您可以根据需要组合它们。
 
-1. 如果有很多人，将许多人的节点打开，如果有很多人，则分割掩码并单独重绘每个角色，否则将它们全部一起重绘。2. 如果识别出头发，则使用此缩放节点。
+1. 如果有很多人，将许多人的节点打开，如果有很多人，则分割掩码并单独重绘每个角色，否则将它们全部一起重绘。
 
 2. 如果识别出头发时识别出整个头部，请调整Yoloworld ESAM中的第一个参数。
 
-3. 我使用RemapImageRange传递图像，如果您不想传递，则可以禁用该节点。
-
-如何使用高低频率：测量高CFG和高降噪可以大大增加屏幕的细节，但是角色面部会变黑，低频率也是同样的原因，如果您了解PS，可以使用蒙版进行刮擦以获得非常好的图片效果。
+# 样张：
+![2](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/b1db433c-82b4-4708-8ae9-da51fcd06ada)
+![3](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/cf0814ee-863e-498a-b9ec-7d6a03f2eaad)
+![4](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/8cbd0b6e-64a3-4bdf-a228-b502bfbcb16e)
+![5](https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/8183c713-5456-42ce-9d6b-c848a1328e30)
 
 # 更新日志
 
