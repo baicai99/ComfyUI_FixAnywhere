@@ -4,7 +4,7 @@
 
 ### Very important, must read.
 
-- Recommended node for HD restoration, use this zoom node if you want a more realistic image, even including pore detail. https://openart.ai/workflows/seven947/1minute-8k-upscale/1IPTks1gL7v0EPmvsMcx
+- Recommended node for HD restoration, use this zoom node if you want a more realistic image, even including pore detail. [clik_here](https://openart.ai/workflows/seven947/1minute-8k-upscale/1IPTks1gL7v0EPmvsMcx)
 
 This node of mine uses Yoloworld to recognize objects, not just just redraw faces and hair, you can combine them as you like.
 
