@@ -67,7 +67,10 @@ My node uses Yoloworld to recognize objects, not just redraw faces and hair, you
 - Changed facial parameters to make the face less like a fake face.
 
 Author Pages:  
-[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)  
-[civitai](https://civitai.com/user/1637083533489)  
+[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)
+[civitai](https://civitai.com/user/1637083533489)
+[小红书](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1714843011)
+[抖音](https://v.douyin.com/i2ky4oxf/)
+[openart](https://openart.ai/workflows/profile/flamingo_sudden_15?tab=workflows&sort=latest)
 
 Please adhere to the open source license, redistribution is allowed, but please credit the author and commercial sales are prohibited.
