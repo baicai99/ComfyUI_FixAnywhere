@@ -24,15 +24,15 @@ My nodes use G-DinoSAM to recognize objects, not just redraw faces and such. You
 
 # Sample Images:
 
-<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/e8c35b5a-07d3-4a5c-8776-7ca876e7195a" width="1004" alt="Image Description">
+<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/e8c35b5a-07d3-4a5c-8776-7ca876e7195a" width="800" alt="Image Description">
 
-<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/3e39dc7d-b68b-43c8-8951-9f3b94a38c41" width="500" alt="Image Description">
+<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/3e39dc7d-b68b-43c8-8951-9f3b94a38c41" width="400" alt="Image Description">
 
-<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/1d18d7e2-02ae-49a9-b40f-089981ccd778" width="500" alt="Image Description">
+<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/1d18d7e2-02ae-49a9-b40f-089981ccd778" width="400" alt="Image Description">
 
-<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/4a27640b-79d5-4613-8641-81972f5d7113" width="500" alt="Image Description">
+<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/4a27640b-79d5-4613-8641-81972f5d7113" width="400" alt="Image Description">
 
-<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/360d8fb3-a6e0-4c2e-b29c-b3312a45251a" width="500" alt="Image Description">
+<img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/360d8fb3-a6e0-4c2e-b29c-b3312a45251a" width="00" alt="Image Description">
 
 # Release Notes
 
