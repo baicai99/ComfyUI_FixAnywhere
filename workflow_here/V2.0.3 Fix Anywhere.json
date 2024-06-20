@@ -1,6 +1,6 @@
 {
-  "last_node_id": 557,
-  "last_link_id": 1085,
+  "last_node_id": 561,
+  "last_link_id": 1092,
   "nodes": [
     {
       "id": 57,
@@ -41,12 +41,12 @@
         1060,
         1320
       ],
-      "size": {
-        "0": 320,
-        "1": 310
-      },
+      "size": [
+        320,
+        310
+      ],
       "flags": {},
-      "order": 39,
+      "order": 40,
       "mode": 0,
       "inputs": [
         {
@@ -94,7 +94,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 58,
+      "order": 59,
       "mode": 0,
       "inputs": [
         {
@@ -136,7 +136,7 @@
         "1": 150
       },
       "flags": {},
-      "order": 29,
+      "order": 30,
       "mode": 0,
       "inputs": [
         {
@@ -181,7 +181,7 @@
         "1": 150
       },
       "flags": {},
-      "order": 68,
+      "order": 69,
       "mode": 0,
       "inputs": [
         {
@@ -299,7 +299,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 28,
+      "order": 29,
       "mode": 0,
       "inputs": [
         {
@@ -327,7 +327,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 27,
+      "order": 28,
       "mode": 0,
       "inputs": [
         {
@@ -353,7 +353,7 @@
         26
       ],
       "flags": {},
-      "order": 31,
+      "order": 32,
       "mode": 0,
       "inputs": [
         {
@@ -390,7 +390,7 @@
         26
       ],
       "flags": {},
-      "order": 23,
+      "order": 24,
       "mode": 0,
       "inputs": [
         {
@@ -426,7 +426,7 @@
         26
       ],
       "flags": {},
-      "order": 30,
+      "order": 31,
       "mode": 0,
       "inputs": [
         {
@@ -462,7 +462,7 @@
         26
       ],
       "flags": {},
-      "order": 37,
+      "order": 38,
       "mode": 0,
       "inputs": [
         {
@@ -500,7 +500,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 88,
+      "order": 90,
       "mode": 0,
       "inputs": [
         {
@@ -528,7 +528,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 89,
+      "order": 91,
       "mode": 0,
       "inputs": [
         {
@@ -613,52 +613,6 @@
       ]
     },
     {
-      "id": 476,
-      "type": "SEGSPreview",
-      "pos": [
-        1100,
-        2620
-      ],
-      "size": {
-        "0": 320,
-        "1": 310
-      },
-      "flags": {},
-      "order": 93,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "segs",
-          "type": "SEGS",
-          "link": 958,
-          "label": "Seg"
-        },
-        {
-          "name": "fallback_image_opt",
-          "type": "IMAGE",
-          "link": 959,
-          "label": "备用图像",
-          "slot_index": 1
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [],
-          "shape": 6,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "SEGSPreview"
-      },
-      "widgets_values": [
-        false,
-        0.2
-      ]
-    },
-    {
       "id": 484,
       "type": "Reroute",
       "pos": [
@@ -670,7 +624,7 @@
         26
       ],
       "flags": {},
-      "order": 91,
+      "order": 93,
       "mode": 0,
       "inputs": [
         {
@@ -705,7 +659,7 @@
         26
       ],
       "flags": {},
-      "order": 92,
+      "order": 94,
       "mode": 0,
       "inputs": [
         {
@@ -741,7 +695,7 @@
         "1": 150
       },
       "flags": {},
-      "order": 90,
+      "order": 92,
       "mode": 0,
       "inputs": [
         {
@@ -826,7 +780,7 @@
         26
       ],
       "flags": {},
-      "order": 25,
+      "order": 26,
       "mode": 0,
       "inputs": [
         {
@@ -862,7 +816,7 @@
         26
       ],
       "flags": {},
-      "order": 26,
+      "order": 27,
       "mode": 0,
       "inputs": [
         {
@@ -899,7 +853,7 @@
         26
       ],
       "flags": {},
-      "order": 20,
+      "order": 21,
       "mode": 0,
       "inputs": [
         {
@@ -936,7 +890,7 @@
         "1": 220
       },
       "flags": {},
-      "order": 35,
+      "order": 36,
       "mode": 0,
       "inputs": [
         {
@@ -981,7 +935,7 @@
         26
       ],
       "flags": {},
-      "order": 55,
+      "order": 56,
       "mode": 0,
       "inputs": [
         {
@@ -1017,7 +971,7 @@
         26
       ],
       "flags": {},
-      "order": 34,
+      "order": 35,
       "mode": 0,
       "inputs": [
         {
@@ -1054,7 +1008,7 @@
         26
       ],
       "flags": {},
-      "order": 44,
+      "order": 45,
       "mode": 0,
       "inputs": [
         {
@@ -1091,7 +1045,7 @@
         26
       ],
       "flags": {},
-      "order": 36,
+      "order": 37,
       "mode": 0,
       "inputs": [
         {
@@ -1128,7 +1082,7 @@
         26
       ],
       "flags": {},
-      "order": 24,
+      "order": 25,
       "mode": 0,
       "inputs": [
         {
@@ -1154,43 +1108,6 @@
       }
     },
     {
-      "id": 505,
-      "type": "Reroute",
-      "pos": [
-        1330,
-        2140
-      ],
-      "size": [
-        75,
-        26
-      ],
-      "flags": {},
-      "order": 56,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "",
-          "type": "*",
-          "link": 995
-        }
-      ],
-      "outputs": [
-        {
-          "name": "",
-          "type": "CLIP",
-          "links": [
-            996,
-            1000
-          ],
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "showOutputText": false,
-        "horizontal": false
-      }
-    },
-    {
       "id": 497,
       "type": "Reroute",
       "pos": [
@@ -1202,7 +1119,7 @@
         26
       ],
       "flags": {},
-      "order": 53,
+      "order": 54,
       "mode": 0,
       "inputs": [
         {
@@ -1238,7 +1155,7 @@
         26
       ],
       "flags": {},
-      "order": 32,
+      "order": 33,
       "mode": 0,
       "inputs": [
         {
@@ -1274,7 +1191,7 @@
         26
       ],
       "flags": {},
-      "order": 94,
+      "order": 96,
       "mode": 0,
       "inputs": [
         {
@@ -1309,7 +1226,7 @@
         26
       ],
       "flags": {},
-      "order": 95,
+      "order": 97,
       "mode": 0,
       "inputs": [
         {
@@ -1344,7 +1261,7 @@
         26
       ],
       "flags": {},
-      "order": 40,
+      "order": 41,
       "mode": 0,
       "inputs": [
         {
@@ -1380,13 +1297,13 @@
         26
       ],
       "flags": {},
-      "order": 66,
+      "order": 75,
       "mode": 0,
       "inputs": [
         {
           "name": "",
           "type": "*",
-          "link": 1000
+          "link": 1089
         }
       ],
       "outputs": [
@@ -1416,7 +1333,7 @@
         26
       ],
       "flags": {},
-      "order": 63,
+      "order": 64,
       "mode": 0,
       "inputs": [
         {
@@ -1452,7 +1369,7 @@
         26
       ],
       "flags": {},
-      "order": 51,
+      "order": 52,
       "mode": 0,
       "inputs": [
         {
@@ -1488,7 +1405,7 @@
         "1": 820
       },
       "flags": {},
-      "order": 101,
+      "order": 105,
       "mode": 0,
       "inputs": [
         {
@@ -1517,7 +1434,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 86,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -1585,7 +1502,7 @@
         26
       ],
       "flags": {},
-      "order": 85,
+      "order": 87,
       "mode": 0,
       "inputs": [
         {
@@ -1622,7 +1539,7 @@
         26
       ],
       "flags": {},
-      "order": 87,
+      "order": 89,
       "mode": 0,
       "inputs": [
         {
@@ -1658,7 +1575,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 96,
+      "order": 99,
       "mode": 0,
       "inputs": [
         {
@@ -1751,7 +1668,7 @@
         "1": 130
       },
       "flags": {},
-      "order": 21,
+      "order": 22,
       "mode": 4,
       "inputs": [
         {
@@ -1810,7 +1727,7 @@
         "1": 360
       },
       "flags": {},
-      "order": 100,
+      "order": 104,
       "mode": 0,
       "inputs": [
         {
@@ -1855,7 +1772,7 @@
         "1": 820
       },
       "flags": {},
-      "order": 118,
+      "order": 122,
       "mode": 0,
       "inputs": [
         {
@@ -1884,7 +1801,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 105,
+      "order": 109,
       "mode": 0,
       "inputs": [
         {
@@ -1912,7 +1829,7 @@
       "flags": {
         "collapsed": true
       },
-      "order": 106,
+      "order": 110,
       "mode": 0,
       "inputs": [
         {
@@ -2008,7 +1925,7 @@
         "1": 150
       },
       "flags": {},
-      "order": 107,
+      "order": 111,
       "mode": 0,
       "inputs": [
         {
@@ -2048,12 +1965,12 @@
         1100,
         3890
       ],
-      "size": {
-        "0": 320,
-        "1": 310
-      },
+      "size": [
+        320,
+        310
+      ],
       "flags": {},
-      "order": 110,
+      "order": 114,
       "mode": 0,
       "inputs": [
         {
@@ -2099,7 +2016,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 113,
+      "order": 117,
       "mode": 0,
       "inputs": [
         {
@@ -2141,7 +2058,7 @@
         26
       ],
       "flags": {},
-      "order": 111,
+      "order": 115,
       "mode": 0,
       "inputs": [
         {
@@ -2176,7 +2093,7 @@
         26
       ],
       "flags": {},
-      "order": 108,
+      "order": 112,
       "mode": 0,
       "inputs": [
         {
@@ -2211,7 +2128,7 @@
         26
       ],
       "flags": {},
-      "order": 104,
+      "order": 108,
       "mode": 0,
       "inputs": [
         {
@@ -2247,7 +2164,7 @@
         26
       ],
       "flags": {},
-      "order": 112,
+      "order": 116,
       "mode": 0,
       "inputs": [
         {
@@ -2282,7 +2199,7 @@
         26
       ],
       "flags": {},
-      "order": 109,
+      "order": 113,
       "mode": 0,
       "inputs": [
         {
@@ -2318,7 +2235,7 @@
         26
       ],
       "flags": {},
-      "order": 52,
+      "order": 53,
       "mode": 0,
       "inputs": [
         {
@@ -2353,7 +2270,7 @@
         26
       ],
       "flags": {},
-      "order": 57,
+      "order": 58,
       "mode": 0,
       "inputs": [
         {
@@ -2388,7 +2305,7 @@
         26
       ],
       "flags": {},
-      "order": 41,
+      "order": 42,
       "mode": 0,
       "inputs": [
         {
@@ -2423,7 +2340,7 @@
         26
       ],
       "flags": {},
-      "order": 64,
+      "order": 65,
       "mode": 0,
       "inputs": [
         {
@@ -2458,7 +2375,7 @@
         26
       ],
       "flags": {},
-      "order": 67,
+      "order": 68,
       "mode": 0,
       "inputs": [
         {
@@ -2494,7 +2411,7 @@
         26
       ],
       "flags": {},
-      "order": 75,
+      "order": 77,
       "mode": 0,
       "inputs": [
         {
@@ -2529,7 +2446,7 @@
         26
       ],
       "flags": {},
-      "order": 50,
+      "order": 51,
       "mode": 0,
       "inputs": [
         {
@@ -2564,7 +2481,7 @@
         26
       ],
       "flags": {},
-      "order": 73,
+      "order": 74,
       "mode": 0,
       "inputs": [
         {
@@ -2599,7 +2516,7 @@
         26
       ],
       "flags": {},
-      "order": 62,
+      "order": 63,
       "mode": 0,
       "inputs": [
         {
@@ -2634,7 +2551,7 @@
         26
       ],
       "flags": {},
-      "order": 102,
+      "order": 106,
       "mode": 0,
       "inputs": [
         {
@@ -2711,7 +2628,7 @@
         26
       ],
       "flags": {},
-      "order": 43,
+      "order": 44,
       "mode": 0,
       "inputs": [
         {
@@ -2748,7 +2665,7 @@
         26
       ],
       "flags": {},
-      "order": 54,
+      "order": 55,
       "mode": 0,
       "inputs": [
         {
@@ -2785,7 +2702,7 @@
         26
       ],
       "flags": {},
-      "order": 46,
+      "order": 47,
       "mode": 0,
       "inputs": [
         {
@@ -2822,7 +2739,7 @@
         26
       ],
       "flags": {},
-      "order": 33,
+      "order": 34,
       "mode": 0,
       "inputs": [
         {
@@ -2859,7 +2776,7 @@
         26
       ],
       "flags": {},
-      "order": 45,
+      "order": 46,
       "mode": 0,
       "inputs": [
         {
@@ -2898,7 +2815,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 103,
+      "order": 107,
       "mode": 0,
       "inputs": [
         {
@@ -2968,7 +2885,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 74,
+      "order": 76,
       "mode": 0,
       "inputs": [
         {
@@ -3014,7 +2931,7 @@
         "1": 150
       },
       "flags": {},
-      "order": 115,
+      "order": 119,
       "mode": 0,
       "inputs": [
         {
@@ -3062,7 +2979,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 59,
+      "order": 60,
       "mode": 0,
       "inputs": [
         {
@@ -3105,7 +3022,7 @@
         "1": 100
       },
       "flags": {},
-      "order": 80,
+      "order": 82,
       "mode": 0,
       "inputs": [
         {
@@ -3159,7 +3076,7 @@
         "1": 360
       },
       "flags": {},
-      "order": 81,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -3187,7 +3104,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 70,
+      "order": 71,
       "mode": 0,
       "inputs": [
         {
@@ -3243,7 +3160,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 78,
+      "order": 80,
       "mode": 0,
       "inputs": [
         {
@@ -3325,7 +3242,7 @@
         "1": 100
       },
       "flags": {},
-      "order": 72,
+      "order": 73,
       "mode": 0,
       "inputs": [
         {
@@ -3379,7 +3296,7 @@
         "1": 360
       },
       "flags": {},
-      "order": 69,
+      "order": 70,
       "mode": 0,
       "inputs": [
         {
@@ -3440,7 +3357,7 @@
         "1": 100
       },
       "flags": {},
-      "order": 82,
+      "order": 84,
       "mode": 0,
       "inputs": [
         {
@@ -3494,7 +3411,7 @@
         26
       ],
       "flags": {},
-      "order": 42,
+      "order": 43,
       "mode": 0,
       "inputs": [
         {
@@ -3530,7 +3447,7 @@
         26
       ],
       "flags": {},
-      "order": 38,
+      "order": 39,
       "mode": 0,
       "inputs": [
         {
@@ -3567,7 +3484,7 @@
         26
       ],
       "flags": {},
-      "order": 79,
+      "order": 81,
       "mode": 0,
       "inputs": [
         {
@@ -3604,7 +3521,7 @@
         26
       ],
       "flags": {},
-      "order": 48,
+      "order": 49,
       "mode": 0,
       "inputs": [
         {
@@ -3641,7 +3558,7 @@
         26
       ],
       "flags": {},
-      "order": 71,
+      "order": 72,
       "mode": 0,
       "inputs": [
         {
@@ -3678,7 +3595,7 @@
         26
       ],
       "flags": {},
-      "order": 60,
+      "order": 61,
       "mode": 0,
       "inputs": [
         {
@@ -3715,7 +3632,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 47,
+      "order": 48,
       "mode": 0,
       "inputs": [
         {
@@ -3746,58 +3663,6 @@
       ]
     },
     {
-      "id": 443,
-      "type": "Text to Conditioning",
-      "pos": [
-        1750,
-        1130
-      ],
-      "size": {
-        "0": 320,
-        "1": 50
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 61,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 987,
-          "label": "CLIP"
-        },
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": 888,
-          "widget": {
-            "name": "text"
-          },
-          "label": "文本"
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            1071
-          ],
-          "shape": 3,
-          "label": "条件",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "Text to Conditioning"
-      },
-      "widgets_values": [
-        ""
-      ]
-    },
-    {
       "id": 448,
       "type": "SEGSPreview",
       "pos": [
@@ -3809,7 +3674,7 @@
         "1": 360
       },
       "flags": {},
-      "order": 76,
+      "order": 78,
       "mode": 0,
       "inputs": [
         {
@@ -3888,7 +3753,7 @@
         "1": 360
       },
       "flags": {},
-      "order": 77,
+      "order": 79,
       "mode": 0,
       "inputs": [
         {
@@ -3914,7 +3779,7 @@
         "1": 820
       },
       "flags": {},
-      "order": 116,
+      "order": 120,
       "mode": 0,
       "inputs": [
         {
@@ -4023,7 +3888,7 @@
         512,
         true,
         768,
-        707190683693820,
+        380010416999272,
         "randomize",
         25,
         6,
@@ -4080,7 +3945,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "hck6765_Fisheye_shot_of_a_young_pink-haired_Asian_girl_stylishl_1ab00207-0b41-48ae-aa00-2b14f136b6ca.png",
+        "hck6765_A_pretty_Korean_beauty_in_a_flowing_lava_dress_shining__d5305388-d622-45a3-8a2e-12d818997b87.png",
         "image"
       ],
       "color": "#223",
@@ -4133,54 +3998,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 489,
-      "type": "BNK_CLIPTextEncodeAdvanced",
-      "pos": [
-        1510,
-        2550
-      ],
-      "size": {
-        "0": 210,
-        "1": 290
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 65,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 996,
-          "label": "CLIP",
-          "slot_index": 0
-        }
-      ],
-      "outputs": [
-        {
-          "name": "CONDITIONING",
-          "type": "CONDITIONING",
-          "links": [
-            973
-          ],
-          "shape": 3,
-          "label": "条件",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "BNK_CLIPTextEncodeAdvanced"
-      },
-      "widgets_values": [
-        "1girl, beautiful face, happy, smile,",
-        "none",
-        "A1111"
-      ],
-      "color": "#232",
-      "bgcolor": "#353"
-    },
-    {
       "id": 46,
       "type": "PreviewImage",
       "pos": [
@@ -4192,7 +4009,7 @@
         "1": 820
       },
       "flags": {},
-      "order": 84,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -4219,7 +4036,7 @@
         "1": 820
       },
       "flags": {},
-      "order": 99,
+      "order": 103,
       "mode": 0,
       "inputs": [
         {
@@ -4258,7 +4075,7 @@
         {
           "name": "positive",
           "type": "CONDITIONING",
-          "link": 973,
+          "link": 1091,
           "label": "正面条件"
         },
         {
@@ -4328,7 +4145,7 @@
         512,
         true,
         768,
-        52388651416709,
+        284107776381978,
         "randomize",
         25,
         3.5,
@@ -4366,7 +4183,7 @@
         "1": 1360
       },
       "flags": {},
-      "order": 119,
+      "order": 123,
       "mode": 0,
       "inputs": [
         {
@@ -4391,115 +4208,10 @@
       },
       "widgets_values": [
         [
-          "/view?filename=rgthree.compare._temp_obhzd_00003_.png&type=temp&subfolder=&rand=0.12707891596895005",
-          "/view?filename=rgthree.compare._temp_obhzd_00004_.png&type=temp&subfolder=&rand=0.24172307306320429"
+          "/view?filename=rgthree.compare._temp_zusyt_00029_.png&type=temp&subfolder=&rand=0.6771476180041085",
+          "/view?filename=rgthree.compare._temp_zusyt_00030_.png&type=temp&subfolder=&rand=0.8830179156296718"
         ]
       ]
-    },
-    {
-      "id": 435,
-      "type": "GroundingDinoSAMSegment (segment anything)",
-      "pos": [
-        700,
-        1120
-      ],
-      "size": {
-        "0": 330,
-        "1": 120
-      },
-      "flags": {
-        "collapsed": false
-      },
-      "order": 22,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "sam_model",
-          "type": "SAM_MODEL",
-          "link": 875,
-          "label": "SAM模型"
-        },
-        {
-          "name": "grounding_dino_model",
-          "type": "GROUNDING_DINO_MODEL",
-          "link": 876,
-          "label": "G-Dino模型",
-          "slot_index": 1
-        },
-        {
-          "name": "image",
-          "type": "IMAGE",
-          "link": 878,
-          "label": "图像",
-          "slot_index": 2
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            879
-          ],
-          "shape": 3,
-          "label": " 图像",
-          "slot_index": 0
-        },
-        {
-          "name": "MASK",
-          "type": "MASK",
-          "links": [
-            903,
-            938,
-            939
-          ],
-          "shape": 3,
-          "label": "遮罩",
-          "slot_index": 1
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "GroundingDinoSAMSegment (segment anything)"
-      },
-      "widgets_values": [
-        "person",
-        0.5
-      ]
-    },
-    {
-      "id": 441,
-      "type": "String Input",
-      "pos": [
-        1400,
-        1510
-      ],
-      "size": {
-        "0": 310,
-        "1": 120
-      },
-      "flags": {},
-      "order": 16,
-      "mode": 0,
-      "outputs": [
-        {
-          "name": "STRING",
-          "type": "STRING",
-          "links": [
-            882
-          ],
-          "shape": 3,
-          "label": "STRING",
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "String Input"
-      },
-      "widgets_values": [
-        "indian_style, realistic, teeth, lips, see-through, freckles, "
-      ],
-      "color": "#322",
-      "bgcolor": "#533"
     },
     {
       "id": 466,
@@ -4513,7 +4225,7 @@
         "1": 770
       },
       "flags": {},
-      "order": 17,
+      "order": 16,
       "mode": 0,
       "outputs": [
         {
@@ -4554,7 +4266,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 97,
+      "order": 101,
       "mode": 0,
       "inputs": [
         {
@@ -4596,7 +4308,7 @@
         "1": 150
       },
       "flags": {},
-      "order": 98,
+      "order": 102,
       "mode": 0,
       "inputs": [
         {
@@ -4642,7 +4354,7 @@
         "1": 360
       },
       "flags": {},
-      "order": 117,
+      "order": 121,
       "mode": 0,
       "inputs": [
         {
@@ -4687,7 +4399,7 @@
         "1": 80
       },
       "flags": {},
-      "order": 114,
+      "order": 118,
       "mode": 0,
       "inputs": [
         {
@@ -4729,7 +4441,7 @@
         "1": 820
       },
       "flags": {},
-      "order": 83,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -4837,7 +4549,7 @@
         512,
         true,
         768,
-        625496105210865,
+        709392059962861,
         "randomize",
         30,
         3.5,
@@ -4867,7 +4579,7 @@
         "1": 320
       },
       "flags": {},
-      "order": 49,
+      "order": 50,
       "mode": 0,
       "inputs": [
         {
@@ -4908,7 +4620,477 @@
         0.85,
         false,
         true,
-        "closed_eyes,indian_style, realistic, "
+        "closed_eyes,indian_style, realistic, ",
+        "1girl, solo, long_hair, brown_hair, black_hair, dress, bare_shoulders, jewelry, closed_eyes, braid, bracelet, strapless, makeup, red_dress, strapless_dress, skirt_hold, dancing, orange_dress, orange_theme, "
+      ]
+    },
+    {
+      "id": 476,
+      "type": "SEGSPreview",
+      "pos": [
+        1100,
+        2620
+      ],
+      "size": [
+        320,
+        310
+      ],
+      "flags": {},
+      "order": 95,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "segs",
+          "type": "SEGS",
+          "link": 958,
+          "label": "Seg"
+        },
+        {
+          "name": "fallback_image_opt",
+          "type": "IMAGE",
+          "link": 959,
+          "label": "备用图像",
+          "slot_index": 1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1086
+          ],
+          "shape": 6,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SEGSPreview"
+      },
+      "widgets_values": [
+        false,
+        0.2
+      ]
+    },
+    {
+      "id": 443,
+      "type": "Text to Conditioning",
+      "pos": [
+        1750,
+        1130
+      ],
+      "size": {
+        "0": 320,
+        "1": 50
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 62,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 987,
+          "label": "CLIP"
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 888,
+          "widget": {
+            "name": "text"
+          },
+          "label": "文本"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            1071
+          ],
+          "shape": 3,
+          "label": "条件",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text to Conditioning"
+      },
+      "widgets_values": [
+        ""
+      ]
+    },
+    {
+      "id": 558,
+      "type": "WD14Tagger|pysssss",
+      "pos": [
+        1450,
+        2350
+      ],
+      "size": {
+        "0": 320,
+        "1": 320
+      },
+      "flags": {},
+      "order": 98,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 1086,
+          "label": "图像",
+          "slot_index": 0
+        },
+        {
+          "name": "exclude_tags",
+          "type": "STRING",
+          "link": 1092,
+          "widget": {
+            "name": "exclude_tags"
+          },
+          "label": "排除标签"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1087
+          ],
+          "shape": 6,
+          "label": "字符串",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "WD14Tagger|pysssss"
+      },
+      "widgets_values": [
+        "wd-v1-4-moat-tagger-v2",
+        0.25,
+        0.85,
+        false,
+        true,
+        "closed_eyes,indian_style, realistic, ",
+        "1girl, solo, long_hair, brown_hair, bare_shoulders, jewelry, closed_mouth, collarbone, closed_eyes, earrings, lips, eyelashes, makeup, lipstick, portrait, close-up, backlighting, "
+      ]
+    },
+    {
+      "id": 505,
+      "type": "Reroute",
+      "pos": [
+        1330,
+        2140
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 57,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 995
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CLIP",
+          "links": [
+            996,
+            1088
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 560,
+      "type": "Reroute",
+      "pos": [
+        1660,
+        2140
+      ],
+      "size": [
+        75,
+        26
+      ],
+      "flags": {},
+      "order": 67,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "",
+          "type": "*",
+          "link": 1088
+        }
+      ],
+      "outputs": [
+        {
+          "name": "",
+          "type": "CLIP",
+          "links": [
+            1089,
+            1090
+          ],
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "showOutputText": false,
+        "horizontal": false
+      }
+    },
+    {
+      "id": 559,
+      "type": "Text to Conditioning",
+      "pos": [
+        1790,
+        2460
+      ],
+      "size": [
+        320,
+        50
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 100,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 1090,
+          "label": "CLIP"
+        },
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 1087,
+          "widget": {
+            "name": "text"
+          },
+          "label": "文本"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [
+            1091
+          ],
+          "shape": 3,
+          "label": "条件",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "Text to Conditioning"
+      },
+      "widgets_values": [
+        ""
+      ]
+    },
+    {
+      "id": 441,
+      "type": "String Input",
+      "pos": [
+        1400,
+        1510
+      ],
+      "size": {
+        "0": 310,
+        "1": 120
+      },
+      "flags": {},
+      "order": 17,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            882
+          ],
+          "shape": 3,
+          "label": "STRING",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "String Input"
+      },
+      "widgets_values": [
+        "indian_style, realistic, teeth, lips, see-through, freckles, "
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 489,
+      "type": "BNK_CLIPTextEncodeAdvanced",
+      "pos": [
+        1500,
+        2900
+      ],
+      "size": {
+        "0": 210,
+        "1": 290
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 66,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 996,
+          "label": "CLIP",
+          "slot_index": 0
+        }
+      ],
+      "outputs": [
+        {
+          "name": "CONDITIONING",
+          "type": "CONDITIONING",
+          "links": [],
+          "shape": 3,
+          "label": "条件",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "BNK_CLIPTextEncodeAdvanced"
+      },
+      "widgets_values": [
+        "1girl, beautiful face, ",
+        "none",
+        "A1111"
+      ],
+      "color": "#232",
+      "bgcolor": "#353"
+    },
+    {
+      "id": 561,
+      "type": "String Input",
+      "pos": [
+        1450,
+        2720
+      ],
+      "size": {
+        "0": 310,
+        "1": 120
+      },
+      "flags": {},
+      "order": 18,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            1092
+          ],
+          "shape": 3,
+          "label": "STRING",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "String Input"
+      },
+      "widgets_values": [
+        "indian_style, realistic, see-through, freckles, "
+      ],
+      "color": "#322",
+      "bgcolor": "#533"
+    },
+    {
+      "id": 435,
+      "type": "GroundingDinoSAMSegment (segment anything)",
+      "pos": [
+        700,
+        1120
+      ],
+      "size": {
+        "0": 330,
+        "1": 120
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 23,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "sam_model",
+          "type": "SAM_MODEL",
+          "link": 875,
+          "label": "SAM模型"
+        },
+        {
+          "name": "grounding_dino_model",
+          "type": "GROUNDING_DINO_MODEL",
+          "link": 876,
+          "label": "G-Dino模型",
+          "slot_index": 1
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 878,
+          "label": "图像",
+          "slot_index": 2
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            879
+          ],
+          "shape": 3,
+          "label": " 图像",
+          "slot_index": 0
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": [
+            903,
+            938,
+            939
+          ],
+          "shape": 3,
+          "label": "遮罩",
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "GroundingDinoSAMSegment (segment anything)"
+      },
+      "widgets_values": [
+        "person",
+        0.3
       ]
     },
     {
@@ -4923,13 +5105,13 @@
         "1": 290
       },
       "flags": {},
-      "order": 18,
+      "order": 19,
       "mode": 0,
       "properties": {
         "text": ""
       },
       "widgets_values": [
-        "# Fix Anywhere\n\n# 更新日志\n\n### 版本号 v2.0.2\n- 优化更新参数。\n\n### 版本号 v2.0.1\n- 优化更新参数。\n\n### 版本号 v2.0.0\n- 更改：把 Yoloworld ESAM 更改为 G-DinoSAM。\n- 更新：全新的排版。\n- 更新：全新的参数，更丝滑，更柔和。\n- 新增：蒙版柔和。\n- 新增：DA深度预处理器、anyline预处理器，openpose预处理器。\n\n### 版本号 v1.0.8\n- 修复：之前思路错了，通过蒙版裁切并不能取得更好的效果，反而会拖慢运行速度。更改方式改为扩大蒙版范围。\n- 修复：似乎不需要tile也能很好的高清修复，并且tile还会伴随着皮肤变黑的问题。\n- 修复：调整了裁剪尺寸以及蒙版模糊，面部修复去除蒙版叠加。\n\n### 版本号 v1.0.7\n- 新增：快捷开关，直接关闭不需要的节点组。\n- 修复：修改参数后，字符会变黑，但细节更多了，不知道为什么。\n\n### 版本号 v1.0.6\n- 已知问题：无法正确识别手臂。无法正确识别大腿。\n- 修复：之前的节点无法有效检测到颈部，导致颈部错误。通过蒙版之间的相互裁剪可以满足颈部的场景，并且测试中的所有30张图像都可以正常使用。\n- 修复：之前的节点对服装无效，可能会检测到裤子等，通过蒙版裁剪只能满足检测服装的场景，测试30张图片可以正常使用。\n- 修复：更改关键字和设置，使裤子识别更准确。\n- 废弃：高频和低频节点正式废弃。\n\n### 版本号 v1.0.6\n- 已知问题：无法正确识别手臂。无法正确识别大腿。\n- 修复：之前的节点无法有效检测到颈部，导致颈部错误，通过蒙版之间的相互裁剪可以满足颈部的场景，测试中的所有30张图像都可以正常使用。\n- 修复：之前的节点对服装无效，可能会检测到裤子等，通过蒙版裁剪只能满足检测服装的场景，测试30张图片可以正常使用。\n- 修复：更改关键字和设置，使裤子识别更准确。\n- 废弃：高频和低频节点正式废弃。\n\n### 版本 v1.0.5\n- 修复：似乎修复了脸变黑的问题。\n- 修复：高频和低频模块似乎不是必需的，因此可以一步获得图像。\n- Bug：我错了，不应该使用组件传输，它会降低图像质量。\n\n### 版本号 v1.0.4\n- 已知问题：随着重绘的振幅和面部细节增加，脸部会变暗。\n- 修复：第三个节点连接错误。\n- 新增：添加了一种图像节点类型，避免由于后续步骤中的错误而需要重新启动演示。\n- 新增：多人判断：多个人为假，单个人为真。\n- 新增：高频和低频面部修复节点。如果你懒得调整过Sharpen的参数，可以在PS中放两张图像，并使用蒙版擦除。\n\n### 版本号 v1.0.2\n- 修复bug：图像传输没有按顺序进行，而是一次性全部进行。\n\n### 版本号 v1.0.1\n- 修改面部参数，使面部更不像假面。\n\n作者主页：\n[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)\n[civitai](https://civitai.com/user/1637083533489)\n[小红书](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1714843011)\n[抖音](https://v.douyin.com/i2ky4oxf/ 4@4.com :3pm)\n[openart](https://openart.ai/workflows/profile/flamingo_sudden_15?tab=workflows&sort=latest)\n\n请遵循开源协议，允许转发但请注明作者，并且禁止售卖。"
+        "# Fix Anywhere\n\n# 更新日志\n\n### 版本号 v2.0.3\n- 面部增加wd tagger。\n\n### 版本号 v2.0.2\n- 优化更新参数。\n\n### 版本号 v2.0.1\n- 优化更新参数。\n\n### 版本号 v2.0.0\n- 更改：把 Yoloworld ESAM 更改为 G-DinoSAM。\n- 更新：全新的排版。\n- 更新：全新的参数，更丝滑，更柔和。\n- 新增：蒙版柔和。\n- 新增：DA深度预处理器、anyline预处理器，openpose预处理器。\n\n### 版本号 v1.0.8\n- 修复：之前思路错了，通过蒙版裁切并不能取得更好的效果，反而会拖慢运行速度。更改方式改为扩大蒙版范围。\n- 修复：似乎不需要tile也能很好的高清修复，并且tile还会伴随着皮肤变黑的问题。\n- 修复：调整了裁剪尺寸以及蒙版模糊，面部修复去除蒙版叠加。\n\n### 版本号 v1.0.7\n- 新增：快捷开关，直接关闭不需要的节点组。\n- 修复：修改参数后，字符会变黑，但细节更多了，不知道为什么。\n\n### 版本号 v1.0.6\n- 已知问题：无法正确识别手臂。无法正确识别大腿。\n- 修复：之前的节点无法有效检测到颈部，导致颈部错误。通过蒙版之间的相互裁剪可以满足颈部的场景，并且测试中的所有30张图像都可以正常使用。\n- 修复：之前的节点对服装无效，可能会检测到裤子等，通过蒙版裁剪只能满足检测服装的场景，测试30张图片可以正常使用。\n- 修复：更改关键字和设置，使裤子识别更准确。\n- 废弃：高频和低频节点正式废弃。\n\n### 版本号 v1.0.6\n- 已知问题：无法正确识别手臂。无法正确识别大腿。\n- 修复：之前的节点无法有效检测到颈部，导致颈部错误，通过蒙版之间的相互裁剪可以满足颈部的场景，测试中的所有30张图像都可以正常使用。\n- 修复：之前的节点对服装无效，可能会检测到裤子等，通过蒙版裁剪只能满足检测服装的场景，测试30张图片可以正常使用。\n- 修复：更改关键字和设置，使裤子识别更准确。\n- 废弃：高频和低频节点正式废弃。\n\n### 版本 v1.0.5\n- 修复：似乎修复了脸变黑的问题。\n- 修复：高频和低频模块似乎不是必需的，因此可以一步获得图像。\n- Bug：我错了，不应该使用组件传输，它会降低图像质量。\n\n### 版本号 v1.0.4\n- 已知问题：随着重绘的振幅和面部细节增加，脸部会变暗。\n- 修复：第三个节点连接错误。\n- 新增：添加了一种图像节点类型，避免由于后续步骤中的错误而需要重新启动演示。\n- 新增：多人判断：多个人为假，单个人为真。\n- 新增：高频和低频面部修复节点。如果你懒得调整过Sharpen的参数，可以在PS中放两张图像，并使用蒙版擦除。\n\n### 版本号 v1.0.2\n- 修复bug：图像传输没有按顺序进行，而是一次性全部进行。\n\n### 版本号 v1.0.1\n- 修改面部参数，使面部更不像假面。\n\n作者主页：\n[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)\n[civitai](https://civitai.com/user/1637083533489)\n[小红书](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1714843011)\n[抖音](https://v.douyin.com/i2ky4oxf/ 4@4.com :3pm)\n[openart](https://openart.ai/workflows/profile/flamingo_sudden_15?tab=workflows&sort=latest)\n\n请遵循开源协议，允许转发但请注明作者，并且禁止售卖。"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -4946,13 +5128,13 @@
         "1": 290
       },
       "flags": {},
-      "order": 19,
+      "order": 20,
       "mode": 0,
       "properties": {
         "text": ""
       },
       "widgets_values": [
-        "Version Log\n\n### Version v2.0.2\n- Optimized update parameters.\n\n### Version v2.0.1\n- Optimized update parameters.\n\n### Version v2.0.0\n- Change: Change Yoloworld ESAM to G-DinoSAM.\n- Update: Brand new layout.\n- Update: Brand new parameters, smoother and gentler.\n- Add: Soften the mask.\n\n### Version v1.0.8\n- Fix: The previous way of clipping through the mask did not achieve better results, but instead slowed down the operation. Changed the method to enlarge the mask range.\n- Fix: It seems that high-definition repair can be done without tiling, and tiling will cause the skin to darken.\n- Fix: Adjusted the clipping size and mask blur, removed the mask overlay for facial repair.\n\n### Version v1.0.7\n- Add: Quick switch, directly turn off unnecessary node groups.\n- Fix: After modifying the parameters, the characters become black, but there are more details, not sure why.\n\n### Version v1.0.6\n- Known issue: Unable to correctly identify the arms. Unable to correctly identify the thighs.\n- Fix: The previous nodes could not effectively detect the neck, resulting in neck errors. This can be satisfied by mutual clipping between masks and all 30 test images can be used normally.\n- Fix: The previous nodes were ineffective for clothing and could only detect pants, etc. Clipping through the mask can only satisfy the detection of clothing scenes, and 30 test images can be used normally.\n- Fix: Change keywords and settings to make pants recognition more accurate.\n- Discontinue: High and low-frequency nodes are officially discontinued.\n\n### Version v1.0.5\n- Fix: Seems to have fixed the issue of the face turning black.\n- Fix: High and low-frequency modules seem to be unnecessary, so the image can be obtained in one step.\n- Bug: I was wrong, I should not use component transmission, it will reduce the image quality.\n\n### Version v1.0.4\n- Known issue: As the amplitude of the redraw and the increase in facial details increase, the face becomes dark.\n- Fix: The third node is incorrectly connected.\n- Add: Added a type of image node to avoid the need to restart the demo due to errors in subsequent steps.\n- Add: Multi-person judgment: false for multiple people, true for single person.\n- Add: High and low-frequency facial repair nodes. If you are too lazy to adjust the Sharpen parameters, you can put two images in PS and use a mask to erase.\n\n### Version v1.0.2\n- Fix bug: Image transmission was not done in order, but all at once.\n\n### Version v1.0.1\n- Modify facial parameters to make the face look less like a mask.\n\nAuthor's Page:\n[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)\n[civitai](https://civitai.com/user/1637083533489)\n[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1714843011)\n[Douyin](https://v.douyin.com/i2ky4oxf/ 4@4.com :3pm)\n[Openart](https://openart.ai/workflows/profile/flamingo_sudden_15?tab=workflows&sort=latest)\n\nPlease follow the open source agreement, allow forwarding but please indicate the author, and prohibit selling."
+        "# Fix Anywhere\nVersion Log\n\n### Version v2.0.3\n- Added wd tagger for the face.\n\n### Version v2.0.2\n- Optimized update parameters.\n\n### Version v2.0.1\n- Optimized update parameters.\n\n### Version v2.0.0\n- Change: Change Yoloworld ESAM to G-DinoSAM.\n- Update: Brand new layout.\n- Update: Brand new parameters, smoother and gentler.\n- Add: Soften the mask.\n\n### Version v1.0.8\n- Fix: The previous way of clipping through the mask did not achieve better results, but instead slowed down the operation. Changed the method to enlarge the mask range.\n- Fix: It seems that high-definition repair can be done without tiling, and tiling will cause the skin to darken.\n- Fix: Adjusted the clipping size and mask blur, removed the mask overlay for facial repair.\n\n### Version v1.0.7\n- Add: Quick switch, directly turn off unnecessary node groups.\n- Fix: After modifying the parameters, the characters become black, but there are more details, not sure why.\n\n### Version v1.0.6\n- Known issue: Unable to correctly identify the arms. Unable to correctly identify the thighs.\n- Fix: The previous nodes could not effectively detect the neck, resulting in neck errors. This can be satisfied by mutual clipping between masks and all 30 test images can be used normally.\n- Fix: The previous nodes were ineffective for clothing and could only detect pants, etc. Clipping through the mask can only satisfy the detection of clothing scenes, and 30 test images can be used normally.\n- Fix: Change keywords and settings to make pants recognition more accurate.\n- Discontinue: High and low-frequency nodes are officially discontinued.\n\n### Version v1.0.5\n- Fix: Seems to have fixed the issue of the face turning black.\n- Fix: High and low-frequency modules seem to be unnecessary, so the image can be obtained in one step.\n- Bug: I was wrong, I should not use component transmission, it will reduce the image quality.\n\n### Version v1.0.4\n- Known issue: As the amplitude of the redraw and the increase in facial details increase, the face becomes dark.\n- Fix: The third node is incorrectly connected.\n- Add: Added a type of image node to avoid the need to restart the demo due to errors in subsequent steps.\n- Add: Multi-person judgment: false for multiple people, true for single person.\n- Add: High and low-frequency facial repair nodes. If you are too lazy to adjust the Sharpen parameters, you can put two images in PS and use a mask to erase.\n\n### Version v1.0.2\n- Fix bug: Image transmission was not done in order, but all at once.\n\n### Version v1.0.1\n- Modify facial parameters to make the face look less like a mask.\n\nAuthor's Page:\n[liblib](https://www.liblib.art/userpage/c0e1c819d36c4bce9b077e04f9eaf693/publish/image)\n[civitai](https://civitai.com/user/1637083533489)\n[Xiaohongshu](https://www.xiaohongshu.com/user/profile/5fc2948e0000000001000b4e?xhsshare=CopyLink&appuid=5fc2948e0000000001000b4e&apptime=1714843011)\n[Douyin](https://v.douyin.com/i2ky4oxf/ 4@4.com :3pm)\n[Openart](https://openart.ai/workflows/profile/flamingo_sudden_15?tab=workflows&sort=latest)\n\nPlease follow the open source agreement, allow forwarding but please indicate the author, and prohibit selling."
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -5320,14 +5502,6 @@
       "*"
     ],
     [
-      973,
-      489,
-      0,
-      468,
-      5,
-      "CONDITIONING"
-    ],
-    [
       974,
       422,
       0,
@@ -5486,14 +5660,6 @@
       489,
       0,
       "CLIP"
-    ],
-    [
-      1000,
-      505,
-      0,
-      506,
-      0,
-      "*"
     ],
     [
       1001,
@@ -6078,6 +6244,62 @@
       511,
       0,
       "*"
+    ],
+    [
+      1086,
+      476,
+      0,
+      558,
+      0,
+      "IMAGE"
+    ],
+    [
+      1087,
+      558,
+      0,
+      559,
+      1,
+      "STRING"
+    ],
+    [
+      1088,
+      505,
+      0,
+      560,
+      0,
+      "*"
+    ],
+    [
+      1089,
+      560,
+      0,
+      506,
+      0,
+      "*"
+    ],
+    [
+      1090,
+      560,
+      0,
+      559,
+      0,
+      "CLIP"
+    ],
+    [
+      1091,
+      559,
+      0,
+      468,
+      5,
+      "CONDITIONING"
+    ],
+    [
+      1092,
+      561,
+      0,
+      558,
+      1,
+      "STRING"
     ]
   ],
   "groups": [
@@ -6121,10 +6343,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 1.061076460950002,
+      "scale": 0.6303940863128542,
       "offset": [
-        2879.529767578127,
-        151.68473430948532
+        2116.0883196089258,
+        86.86306761548003
       ]
     }
   },
