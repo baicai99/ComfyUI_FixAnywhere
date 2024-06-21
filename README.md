@@ -35,6 +35,8 @@ My nodes use G-DinoSAM to recognize objects, not just redraw faces and such. You
 <img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/360d8fb3-a6e0-4c2e-b29c-b3312a45251a" width="400" alt="Image Description">
 
 # Release Notes
+### Version v2.0.3
+- wd-tagger on face.
 
 ### Version v2.0.2
 - Optimization of update parameters.

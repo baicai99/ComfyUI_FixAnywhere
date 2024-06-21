@@ -37,6 +37,8 @@
 <img src="https://github.com/baicai99/ComfyUI_Yoloworld_based_full_body_fix_for_ComfyUI_nodes/assets/101706274/360d8fb3-a6e0-4c2e-b29c-b3312a45251a" width="400" alt="图片描述">
 
 # 更新日志
+### 版本号 v2.0.2
+- 新增面部wd-tagger。
 
 ### 版本号 v2.0.2
 - 优化更新参数。
